@@ -5,6 +5,7 @@ was run from top to bottom in a fresh kernel and saved with its outputs, so you 
 
 * **Read the book free:** [www.micyaai.com/books/why-deep-learning-2/](https://www.micyaai.com/books/why-deep-learning-2/)
 * **Part 1 (Chapters 1 to 32):** [github.com/phildani7/why-book-of-deep-learning-part-1](https://github.com/phildani7/why-book-of-deep-learning-part-1)
+* **The simplified video course for kids:** [aikids.guru](https://www.aikids.guru)
 * **The author on LinkedIn:** [linkedin.com/in/phildani7](https://www.linkedin.com/in/phildani7)
 
 Click a badge to open a notebook in Google Colab (free, nothing to install), then *Runtime > Run all*.
