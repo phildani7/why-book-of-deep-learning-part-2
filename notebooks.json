@@ -1,0 +1,281 @@
+[
+ {
+  "name": "LabCh33_Tokenizers_BPE_By_Hand",
+  "chapter": 33,
+  "slug": "ch33-lab",
+  "file": "ch33_LabCh33_Tokenizers_BPE_By_Hand.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch33_LabCh33_Tokenizers_BPE_By_Hand.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch33_LabCh33_Tokenizers_BPE_By_Hand.ipynb",
+  "short": "https://www.micyaai.com/dl2/33"
+ },
+ {
+  "name": "LabCh34_Position_Encodings",
+  "chapter": 34,
+  "slug": "ch34-lab",
+  "file": "ch34_LabCh34_Position_Encodings.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch34_LabCh34_Position_Encodings.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch34_LabCh34_Position_Encodings.ipynb",
+  "short": "https://www.micyaai.com/dl2/34"
+ },
+ {
+  "name": "LabCh35_TinyGPT",
+  "chapter": 35,
+  "slug": "ch35-lab",
+  "file": "ch35_LabCh35_TinyGPT.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch35_LabCh35_TinyGPT.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch35_LabCh35_TinyGPT.ipynb",
+  "short": "https://www.micyaai.com/dl2/35"
+ },
+ {
+  "name": "LabCh36_Decoding_Methods",
+  "chapter": 36,
+  "slug": "ch36-lab",
+  "file": "ch36_LabCh36_Decoding_Methods.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch36_LabCh36_Decoding_Methods.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch36_LabCh36_Decoding_Methods.ipynb",
+  "short": "https://www.micyaai.com/dl2/36"
+ },
+ {
+  "name": "LabCh37_Masked_vs_Causal",
+  "chapter": 37,
+  "slug": "ch37-lab",
+  "file": "ch37_LabCh37_Masked_vs_Causal.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch37_LabCh37_Masked_vs_Causal.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch37_LabCh37_Masked_vs_Causal.ipynb",
+  "short": "https://www.micyaai.com/dl2/37"
+ },
+ {
+  "name": "LabCh38_Scaling_In_Miniature",
+  "chapter": 38,
+  "slug": "ch38-lab",
+  "file": "ch38_LabCh38_Scaling_In_Miniature.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch38_LabCh38_Scaling_In_Miniature.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch38_LabCh38_Scaling_In_Miniature.ipynb",
+  "short": "https://www.micyaai.com/dl2/38"
+ },
+ {
+  "name": "LabCh39_Fine_Tuning",
+  "chapter": 39,
+  "slug": "ch39-lab",
+  "file": "ch39_LabCh39_Fine_Tuning.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch39_LabCh39_Fine_Tuning.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch39_LabCh39_Fine_Tuning.ipynb",
+  "short": "https://www.micyaai.com/dl2/39"
+ },
+ {
+  "name": "LabCh40_LoRA_By_Hand",
+  "chapter": 40,
+  "slug": "ch40-lab",
+  "file": "ch40_LabCh40_LoRA_By_Hand.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch40_LabCh40_LoRA_By_Hand.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch40_LabCh40_LoRA_By_Hand.ipynb",
+  "short": "https://www.micyaai.com/dl2/40"
+ },
+ {
+  "name": "LabCh41_In_Context_Learning",
+  "chapter": 41,
+  "slug": "ch41-lab",
+  "file": "ch41_LabCh41_In_Context_Learning.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch41_LabCh41_In_Context_Learning.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch41_LabCh41_In_Context_Learning.ipynb",
+  "short": "https://www.micyaai.com/dl2/41"
+ },
+ {
+  "name": "LabCh42_Tiny_RAG",
+  "chapter": 42,
+  "slug": "ch42-lab",
+  "file": "ch42_LabCh42_Tiny_RAG.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch42_LabCh42_Tiny_RAG.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch42_LabCh42_Tiny_RAG.ipynb",
+  "short": "https://www.micyaai.com/dl2/42"
+ },
+ {
+  "name": "LabCh43_Tool_Loop",
+  "chapter": 43,
+  "slug": "ch43-lab",
+  "file": "ch43_LabCh43_Tool_Loop.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch43_LabCh43_Tool_Loop.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch43_LabCh43_Tool_Loop.ipynb",
+  "short": "https://www.micyaai.com/dl2/43"
+ },
+ {
+  "name": "LabCh44_Evaluating_Models",
+  "chapter": 44,
+  "slug": "ch44-lab",
+  "file": "ch44_LabCh44_Evaluating_Models.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch44_LabCh44_Evaluating_Models.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch44_LabCh44_Evaluating_Models.ipynb",
+  "short": "https://www.micyaai.com/dl2/44"
+ },
+ {
+  "name": "LabCh45_Tiny_ViT",
+  "chapter": 45,
+  "slug": "ch45-lab",
+  "file": "ch45_LabCh45_Tiny_ViT.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch45_LabCh45_Tiny_ViT.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch45_LabCh45_Tiny_ViT.ipynb",
+  "short": "https://www.micyaai.com/dl2/45"
+ },
+ {
+  "name": "LabCh46_Detection_By_Hand",
+  "chapter": 46,
+  "slug": "ch46-lab",
+  "file": "ch46_LabCh46_Detection_By_Hand.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch46_LabCh46_Detection_By_Hand.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch46_LabCh46_Detection_By_Hand.ipynb",
+  "short": "https://www.micyaai.com/dl2/46"
+ },
+ {
+  "name": "LabCh47_Tiny_UNet",
+  "chapter": 47,
+  "slug": "ch47-lab",
+  "file": "ch47_LabCh47_Tiny_UNet.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch47_LabCh47_Tiny_UNet.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch47_LabCh47_Tiny_UNet.ipynb",
+  "short": "https://www.micyaai.com/dl2/47"
+ },
+ {
+  "name": "LabCh48_Contrastive_Pretraining",
+  "chapter": 48,
+  "slug": "ch48-lab",
+  "file": "ch48_LabCh48_Contrastive_Pretraining.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch48_LabCh48_Contrastive_Pretraining.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch48_LabCh48_Contrastive_Pretraining.ipynb",
+  "short": "https://www.micyaai.com/dl2/48"
+ },
+ {
+  "name": "LabCh49_Tiny_CLIP",
+  "chapter": 49,
+  "slug": "ch49-lab",
+  "file": "ch49_LabCh49_Tiny_CLIP.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch49_LabCh49_Tiny_CLIP.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch49_LabCh49_Tiny_CLIP.ipynb",
+  "short": "https://www.micyaai.com/dl2/49"
+ },
+ {
+  "name": "LabCh50_Diffusion_By_Hand",
+  "chapter": 50,
+  "slug": "ch50-lab",
+  "file": "ch50_LabCh50_Diffusion_By_Hand.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch50_LabCh50_Diffusion_By_Hand.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch50_LabCh50_Diffusion_By_Hand.ipynb",
+  "short": "https://www.micyaai.com/dl2/50"
+ },
+ {
+  "name": "LabCh51_Guidance_And_Fast_Sampling",
+  "chapter": 51,
+  "slug": "ch51-lab",
+  "file": "ch51_LabCh51_Guidance_And_Fast_Sampling.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch51_LabCh51_Guidance_And_Fast_Sampling.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch51_LabCh51_Guidance_And_Fast_Sampling.ipynb",
+  "short": "https://www.micyaai.com/dl2/51"
+ },
+ {
+  "name": "LabCh52_Flow_Matching_2D",
+  "chapter": 52,
+  "slug": "ch52-lab",
+  "file": "ch52_LabCh52_Flow_Matching_2D.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch52_LabCh52_Flow_Matching_2D.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch52_LabCh52_Flow_Matching_2D.ipynb",
+  "short": "https://www.micyaai.com/dl2/52"
+ },
+ {
+  "name": "LabCh53_Sound_By_Hand",
+  "chapter": 53,
+  "slug": "ch53-lab",
+  "file": "ch53_LabCh53_Sound_By_Hand.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch53_LabCh53_Sound_By_Hand.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch53_LabCh53_Sound_By_Hand.ipynb",
+  "short": "https://www.micyaai.com/dl2/53"
+ },
+ {
+  "name": "LabCh54_Graph_Networks",
+  "chapter": 54,
+  "slug": "ch54-lab",
+  "file": "ch54_LabCh54_Graph_Networks.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch54_LabCh54_Graph_Networks.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch54_LabCh54_Graph_Networks.ipynb",
+  "short": "https://www.micyaai.com/dl2/54"
+ },
+ {
+  "name": "LabCh55_Forecasting_Honestly",
+  "chapter": 55,
+  "slug": "ch55-lab",
+  "file": "ch55_LabCh55_Forecasting_Honestly.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch55_LabCh55_Forecasting_Honestly.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch55_LabCh55_Forecasting_Honestly.ipynb",
+  "short": "https://www.micyaai.com/dl2/55"
+ },
+ {
+  "name": "LabCh56_Two_Tower_Recommender",
+  "chapter": 56,
+  "slug": "ch56-lab",
+  "file": "ch56_LabCh56_Two_Tower_Recommender.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch56_LabCh56_Two_Tower_Recommender.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch56_LabCh56_Two_Tower_Recommender.ipynb",
+  "short": "https://www.micyaai.com/dl2/56"
+ },
+ {
+  "name": "LabCh57_Q_Learning_Grid_World",
+  "chapter": 57,
+  "slug": "ch57-lab",
+  "file": "ch57_LabCh57_Q_Learning_Grid_World.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch57_LabCh57_Q_Learning_Grid_World.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch57_LabCh57_Q_Learning_Grid_World.ipynb",
+  "short": "https://www.micyaai.com/dl2/57"
+ },
+ {
+  "name": "LabCh58_DQN_CartPole",
+  "chapter": 58,
+  "slug": "ch58-lab",
+  "file": "ch58_LabCh58_DQN_CartPole.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch58_LabCh58_DQN_CartPole.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch58_LabCh58_DQN_CartPole.ipynb",
+  "short": "https://www.micyaai.com/dl2/58"
+ },
+ {
+  "name": "LabCh59_Profiling_A_Training_Run",
+  "chapter": 59,
+  "slug": "ch59-lab",
+  "file": "ch59_LabCh59_Profiling_A_Training_Run.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch59_LabCh59_Profiling_A_Training_Run.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch59_LabCh59_Profiling_A_Training_Run.ipynb",
+  "short": "https://www.micyaai.com/dl2/59"
+ },
+ {
+  "name": "LabCh60_Shrinking_A_Model",
+  "chapter": 60,
+  "slug": "ch60-lab",
+  "file": "ch60_LabCh60_Shrinking_A_Model.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch60_LabCh60_Shrinking_A_Model.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch60_LabCh60_Shrinking_A_Model.ipynb",
+  "short": "https://www.micyaai.com/dl2/60"
+ },
+ {
+  "name": "LabCh61_Ship_And_Watch",
+  "chapter": 61,
+  "slug": "ch61-lab",
+  "file": "ch61_LabCh61_Ship_And_Watch.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch61_LabCh61_Ship_And_Watch.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch61_LabCh61_Ship_And_Watch.ipynb",
+  "short": "https://www.micyaai.com/dl2/61"
+ },
+ {
+  "name": "LabCh62_Looking_Inside",
+  "chapter": 62,
+  "slug": "ch62-lab",
+  "file": "ch62_LabCh62_Looking_Inside.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch62_LabCh62_Looking_Inside.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch62_LabCh62_Looking_Inside.ipynb",
+  "short": "https://www.micyaai.com/dl2/62"
+ },
+ {
+  "name": "LabCh63_Fool_It_Then_Calibrate_It",
+  "chapter": 63,
+  "slug": "ch63-lab",
+  "file": "ch63_LabCh63_Fool_It_Then_Calibrate_It.ipynb",
+  "github": "https://github.com/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch63_LabCh63_Fool_It_Then_Calibrate_It.ipynb",
+  "colab": "https://colab.research.google.com/github/phildani7/why-book-of-deep-learning-part-2/blob/main/notebooks/ch63_LabCh63_Fool_It_Then_Calibrate_It.ipynb",
+  "short": "https://www.micyaai.com/dl2/63"
+ }
+]
